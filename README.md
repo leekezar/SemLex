@@ -5,12 +5,12 @@ The Benchmark may be combined with [ASL Citizen](https://www.microsoft.com/en-us
 [Read the paper here](https://arxiv.org/abs/2310.00196).
 
 ![A Sankey diagram illustrates different partitions of the benchmark dataset.](https://i.imgur.com/o6Xvf0s.png)
-## Download the Benchmark
-The videos are available for public download. Please read and agree to [the terms of use](https://docs.google.com/forms/d/e/1FAIpQLSeFjIcbJcr2kWibgrEdFyLhNADo1ErnVGuQHtGeiDiqe4iteQ/viewform?usp=sf_link) to access the download links.
+## Download the Benchmark & Pretrained Models
+The videos are available for public download. Please read and agree to [the terms of use](https://docs.google.com/forms/d/e/1FAIpQLSeFjIcbJcr2kWibgrEdFyLhNADo1ErnVGuQHtGeiDiqe4iteQ/viewform?usp=sf_link) to access the download links. Pose estimation files for each video will be available soon.
 
-Pose estimation files for each video will be available soon.
-
-## Download the Pretrained Models
+Pretrained SL-GCN models are available for gloss recognition, phoneme recognition, and phoneme+gloss recognition (most accurate at ISR).
 
 
 ## Replicate the Experiments
+
+Details coming soon!
